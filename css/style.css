@@ -4028,6 +4028,12 @@ All this is done for any sub-level being entered.
 }
 
 
+.gallery-top .swiper-slide{
+  padding: 10px;
+  margin-right: 0 !important;
+}
+
+
 .gallery-top .swiper-slide:hover img{
   transform: scale(1.2);
 }
